@@ -14,11 +14,11 @@
   "dependencies": {
     "anesidora": "^1.2.0",
     "aws-sdk": "^2.12.0",
-    "basic-auth": "~1.1.0",
+    "basic-auth": "^2.0.1",
     "fuse.js": "^6.5.3",
-    "html-entities": "^1.2.1",
-    "json5": "^0.5.1",
-    "mime": "^1.4.1",
+    "html-entities": "^2.3.2",
+    "json5": "^2.2.0",
+    "mime": "^3.0.0",
     "music-metadata": "^1.1.0",
     "node-static": "^0.7.9",
     "request-promise": "~1.0.2",
@@ -28,8 +28,8 @@
   "main": "lib/sonos-http-api.js",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.8.0",
-    "eslint-config-airbnb-base": "^12.0.1",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4"
   }
 }
